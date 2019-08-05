@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: blanchedalmond;
+}
+button{
+    margin: 8px;
+    height: 30px;
+    width: 80px;
+    border-radius: 20%;
+    border: none;
+    cursor: pointer;
+}
+h1{
+    font-family: 'Saira Stencil One', cursive;
+}
+input{
+    width: 230px;
+    height: 30px;
+}

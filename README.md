@@ -3,10 +3,12 @@
 - HTML
 - CSS
 - JAVASCRIPT
+---
 
 ## Ferramentas Utilizadas
 - Em CSS utilizamos Diplay Flex e propriedades básicas.
 - Em JavaScript, utilizamos FOR, MATH, FUNCTION, IF e ELSE.
+---
 ~~~
 function acertou() {
     pontuacao++;
@@ -31,8 +33,10 @@ iniciar.onclick = aleatorio;
 - Kathlein Freire,
 - Guilherme Dos Santos,
 - Matheus Alcântara da Silva.
+---
 
 [API] (https://rickandmortyapi.com/)
 
 [Jogar] (https://mathalcantaras.github.io/jogo-rick-and-morty/)
+---
 

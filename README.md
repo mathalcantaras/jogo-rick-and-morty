@@ -35,8 +35,7 @@ iniciar.onclick = aleatorio;
 - Matheus Alcântara da Silva.
 ---
 
-[API] (https://rickandmortyapi.com/)
+### [API] (https://rickandmortyapi.com/)
 
-[Jogar] (https://mathalcantaras.github.io/jogo-rick-and-morty/)
----
+### [Jogar] (https://mathalcantaras.github.io/jogo-rick-and-morty/)
 
